@@ -1,0 +1,25 @@
+title: fmcs.digital
+email: info@fmcs.digital
+description: >-
+  We are Digital Technology Transformationalists. We are business-driven digital 
+  technology experts enabling digital transformation via digital technologies. 
+  We always are independent, unbiased & impartial.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: fmheir
+github_username:  fmheir
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

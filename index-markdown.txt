@@ -1,0 +1,29 @@
+---
+layout: home
+title: fmcs.digital - Digital Technology Experts
+---
+
+# Welcome to fmcs.digital
+
+We are Digital Technology Transformationalists. We are business-driven digital technology experts enabling digital transformation via digital technologies. We always are independent, unbiased & impartial.
+
+## Our Services
+
+### Technology Audits
+We investigate software code, solution architecture, integration, data, frameworks and many other sources to find the root-cause of issues and deliver detailed recommendations to put the project back on track.
+
+### Technology Strategy
+We deliver multi-year, prioritized, technology roadmaps that align people + process + technologies with detailed budget estimates.
+
+### Technology RFPs
+As an impartial advisor, we work with you to prepare and manage Request For Proposal (RFP) process. We create and write the specifications and other deliverables, and manage the selection committee. When required, we suggest companies we trust to invite to bid.
+
+## Our Clients
+
+We've had the privilege of working with a diverse range of clients across various industries.
+
+[Client logos would go here]
+
+## Contact Us
+
+Ready to transform your digital technology? [Get in touch with us today!](mailto:info@fmcs.digital)

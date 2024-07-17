@@ -1,0 +1,29 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+# About fmcs.digital
+
+We are Digital Technology Transformationalists. Our mission is to enable digital transformation through expert application of digital technologies. We pride ourselves on being independent, unbiased, and impartial in all our consultations.
+
+## Our Team
+
+Our team consists of experienced professionals in various aspects of digital technology:
+
+- **Farid Mheir**: Founder and Principal Consultant
+
+## Our Collaborators
+
+We work with a network of trusted collaborators to deliver comprehensive solutions:
+
+- **Data Science and AI**: Guillaume Marquis, Ph.D., Alexis Landreville Duval
+- **Project Management & Digital Transformation**: Luc K Audebrand, PMP & PRINCE2, Nathalie Bousso, PMP & MBA
+- **Design**: Sylvie Dionne, Emilie Prud'homme
+- **Web and Cloud Development**: Vlad Kim, Justin Gagne
+- **IT Infrastructure**: Benoit Labelle
+- **Cybersecurity**: Marc-Andre Talbolt, CISM
+- **Digital Marketing**: Bruno Mercier
+
+Our collaborative approach allows us to tackle complex digital challenges with a multidisciplinary perspective.
